@@ -57,15 +57,15 @@ const RESOURCES = {
 "assets/assets/fonts/ElMessiri-Regular.ttf": "04557065a426bd218b5acde9ae3c4695",
 "assets/assets/fonts/ElMessiri-Medium.ttf": "cfa9895d0c5aeb3c48b515df21e6cf04",
 "assets/AssetManifest.json": "c4394d81c720fa6c2d1a0ae8d6276bde",
-"assets/NOTICES": "fedf0d358a26169b6b0b6077551e8ffb",
+"assets/NOTICES": "d7d30a1efac86bd7be49052c67e4dd4a",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "version.json": "29ce36fe4c17b5ac2c24b5683a126e2c",
 "icons/Icon-new-512.png": "5a577d61d34cb70d53d373700e793b20",
 "icons/Icon-new-192.png": "c0d9ab876c2f2ed548177c5db7a36a01",
 "favicon.ico": "9f4baef2c0ca418c3a9826c0648f97b6",
-"index.html": "4d4035609fc1307f2de8ea3943b84215",
-"/": "4d4035609fc1307f2de8ea3943b84215",
-"main.dart.js": "75ecb8930b3e1e49d1f29a7bcd3bf850"
+"index.html": "940b41b9896354ba45b85f5aef66149c",
+"/": "940b41b9896354ba45b85f5aef66149c",
+"main.dart.js": "5f44ed65173583c720a290777951f343"
 };
 
 // The application shell files that are downloaded before a service worker can
