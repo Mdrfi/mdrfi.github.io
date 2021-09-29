@@ -15247,7 +15247,7 @@ var $async$ahn=P.S(function(b,c){if(b===1)return P.T(c,r)
 while(true)switch(s){case 0:o=a.a
 P.aG(o)
 P.aG(P.aCn(a.gdL(a)))
-q=D.azo("POST",P.eb("http://pwa.tidewater.ir:2026/company/logo?"))
+q=D.azo("POST",P.eb("https://pwa.tidewater.ir:2026/company/logo?"))
 p=t.N
 q.y.M(0,P.aq(["id","10"],p,p))
 n=q.z
@@ -21001,7 +21001,7 @@ a1Q:function a1Q(a){this.a=a},
 agH:function(){var s=0,r=P.W(t.N),q,p,o,n,m,l,k,j,i
 var $async$agH=P.S(function(a,b){if(a===1)return P.T(b,r)
 while(true)switch(s){case 0:s=3
-return P.a1(G.agF(P.eb("http://pwa.tidewater.ir:2026/company")),$async$agH)
+return P.a1(G.agF(P.eb("https://pwa.tidewater.ir:2026/company")),$async$agH)
 case 3:m=b
 l=m.e
 k=B.f6(U.f3(l).c.a.h(0,"charset"))
@@ -67567,7 +67567,7 @@ b=t.N
 m=P.aq(["username",h,"password",g,"firstname",f,"lastname",e,"personalcode",d,"company",c[1].f,"phonenumber",i[5].e.a.a,"role",C.f.j(c[0].e)],b,t.z)
 l=C.a2.es(m)
 s=6
-return P.a1(G.CD(P.eb("http://pwa.tidewater.ir:2026/auth/register"),l,P.aq(["Content-Type","application/json"],b,b)),$async$$0)
+return P.a1(G.CD(P.eb("https://pwa.tidewater.ir:2026/auth/register"),l,P.aq(["Content-Type","application/json"],b,b)),$async$$0)
 case 6:k=a2
 b=k
 P.aG(B.f6(U.f3(b.e).c.a.h(0,"charset")).bT(0,b.x))
@@ -67691,7 +67691,7 @@ var $async$$0=P.S(function(a8,a9){if(a8===1)return P.T(a9,r)
 while(true)switch(s){case 0:a4=q.a.a.c.r
 a5=H.b([],t.Oz)
 s=2
-return P.a1(G.agF(P.eb("http://pwa.tidewater.ir:2026/estate?company="+H.c(a4))),$async$$0)
+return P.a1(G.agF(P.eb("https://pwa.tidewater.ir:2026/estate?company="+H.c(a4))),$async$$0)
 case 2:a6=a9
 a7=C.a2.hX(0,B.f6(U.f3(a6.e).c.a.h(0,"charset")).bT(0,a6.x),null)
 for(p=J.ah(a7),o=0;o<p.gk(a7);++o){n=J.p(p.h(a7,o),"id")==null?0:J.p(p.h(a7,o),"id")
@@ -67728,7 +67728,7 @@ var $async$$0=P.S(function(a8,a9){if(a8===1)return P.T(a9,r)
 while(true)switch(s){case 0:a4=q.a.a.c.r
 a5=H.b([],t.Oz)
 s=2
-return P.a1(G.agF(P.eb("http://pwa.tidewater.ir:2026/estate/sell?company="+H.c(a4))),$async$$0)
+return P.a1(G.agF(P.eb("https://pwa.tidewater.ir:2026/estate/sell?company="+H.c(a4))),$async$$0)
 case 2:a6=a9
 a7=C.a2.hX(0,B.f6(U.f3(a6.e).c.a.h(0,"charset")).bT(0,a6.x),null)
 for(p=J.ah(a7),o=0;o<p.gk(a7);++o){n=J.p(p.h(a7,o),"id")==null?0:J.p(p.h(a7,o),"id")
@@ -67941,7 +67941,7 @@ a7=t.N
 m=P.aq(["name",j,"address",i,"group",h,"areaAyan",f,"yearofConstruction",e,"identityNumber",d,"location",g,"title","SHOULD BE EMPTY","documentStatus",c,"documentType",b,"areaArse",a,"usage",a0,"price",a1,"beneficiary",a3,"ownership","SHOULD BE EMPTY","company",a2,"lift",a5===!0,"parking",a6===!0,"storage",a4===!0],a7,t.z)
 l=C.a2.es(m)
 s=6
-return P.a1(G.CD(P.eb("http://pwa.tidewater.ir:2026/estate"),l,P.aq(["Content-Type","application/json"],a7,a7)),$async$$0)
+return P.a1(G.CD(P.eb("https://pwa.tidewater.ir:2026/estate"),l,P.aq(["Content-Type","application/json"],a7,a7)),$async$$0)
 case 6:k=b1
 a7=k
 P.aG(B.f6(U.f3(a7.e).c.a.h(0,"charset")).bT(0,a7.x))
@@ -68229,7 +68229,7 @@ a6=t.N
 m=P.aq(["id",a8,"name",a9,"address",j,"group",e,"areaAyan",d,"yearofConstruction",c,"identityNumber",b,"location",i,"title","SHOULD BE EMPTY","documentStatus",a,"documentType",a0,"areaArse",a1,"usage",a2,"price",g,"beneficiary",a3,"ownership","SHOULD BE EMPTY","company",h,"lift",a4===!0,"parking",a5===!0,"storage",f===!0],a6,t.z)
 l=C.a2.es(m)
 s=6
-return P.a1(G.CD(P.eb("http://pwa.tidewater.ir:2026/estate/update"),l,P.aq(["Content-Type","application/json"],a6,a6)),$async$$0)
+return P.a1(G.CD(P.eb("https://pwa.tidewater.ir:2026/estate/update"),l,P.aq(["Content-Type","application/json"],a6,a6)),$async$$0)
 case 6:k=b2
 a6=k
 P.aG(B.f6(U.f3(a6.e).c.a.h(0,"charset")).bT(0,a6.x))
@@ -68419,7 +68419,7 @@ s=a6===1||a6===2?2:4
 break
 case 2:p=H.b([],t.Oz)
 s=5
-return P.a1(G.agF(P.eb("http://pwa.tidewater.ir:2026/estate")),$async$$0)
+return P.a1(G.agF(P.eb("https://pwa.tidewater.ir:2026/estate")),$async$$0)
 case 5:o=a8
 n=C.a2.hX(0,B.f6(U.f3(o.e).c.a.h(0,"charset")).bT(0,o.x),null)
 for(a6=J.ah(n),m=0;m<a6.gk(n);++m){l=J.p(a6.h(n,m),"id")==null?0:J.p(a6.h(n,m),"id")
@@ -68631,7 +68631,7 @@ i=t.N
 m=P.aq(["id",n.a.c[n.b].a],i,t.z)
 l=C.a2.es(m)
 s=6
-return P.a1(G.CD(P.eb("http://pwa.tidewater.ir:2026/estate/sell"),l,P.aq(["Content-Type","application/json"],i,i)),$async$$0)
+return P.a1(G.CD(P.eb("https://pwa.tidewater.ir:2026/estate/sell"),l,P.aq(["Content-Type","application/json"],i,i)),$async$$0)
 case 6:k=b
 i=k.b>=200&&k.b<=300
 h=n.c
@@ -68991,7 +68991,7 @@ a2=t.N
 m=P.aq(["id",f,"username",d,"password",c,"firstname",b,"lastname",a,"personalcode",a0,"company",a1[1].f,"phonenumber",e[5].e.a.a,"role",C.f.j(a1[0].e)],a2,t.z)
 l=C.a2.es(m)
 s=6
-return P.a1(G.CD(P.eb("http://pwa.tidewater.ir:2026/user/update"),l,P.aq(["Content-Type","application/json"],a2,a2)),$async$$0)
+return P.a1(G.CD(P.eb("https://pwa.tidewater.ir:2026/user/update"),l,P.aq(["Content-Type","application/json"],a2,a2)),$async$$0)
 case 6:k=a6
 a2=k
 P.aG(B.f6(U.f3(a2.e).c.a.h(0,"charset")).bT(0,a2.x))
@@ -69240,7 +69240,7 @@ G.a_J.prototype={
 r9:function(a,b,c){return this.Po(a,b,c)},
 Po:function(a,b,c){var s=0,r=P.W(t.z),q,p,o,n,m,l
 var $async$r9=P.S(function(d,e){if(d===1)return P.T(e,r)
-while(true)switch(s){case 0:o=P.eb("http://pwa.tidewater.ir:2026/auth/login")
+while(true)switch(s){case 0:o=P.eb("https://pwa.tidewater.ir:2026/auth/login")
 n=t.N
 m=P.aq(["Content-Type","application/x-www-form-urlencoded"],n,n)
 s=3
