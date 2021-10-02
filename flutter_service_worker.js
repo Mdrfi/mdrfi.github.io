@@ -28,6 +28,7 @@ const RESOURCES = {
 "assets/assets/images/khalijefars.png": "50547ed681ea17804984518b7501cb2a",
 "assets/assets/images/logo.png": "771f8522ef6d40bc2ad42969f422d0be",
 "assets/assets/images/sahelofarasahel.png": "cd8f0cd26864d24906b49028ee927b67",
+"assets/assets/images/loginBG.jpg": "5a79eb62a1f924278b8df21365dfd9e3",
 "assets/assets/images/pop.png": "d5b7b29fb6a77180770f37897d7b807e",
 "assets/assets/images/profilepic.png": "f49da2fb0e931ddea848a41df9002572",
 "assets/assets/images/daryabandar.png": "cadd24616b013d8620472e24472ea46b",
@@ -64,16 +65,16 @@ const RESOURCES = {
 "assets/assets/fonts/IBMPlexSansArabic-Regular.ttf": "bd397eb7368d746825170fb384d9100f",
 "assets/assets/fonts/ElMessiri-Regular.ttf": "04557065a426bd218b5acde9ae3c4695",
 "assets/assets/fonts/ElMessiri-Medium.ttf": "cfa9895d0c5aeb3c48b515df21e6cf04",
-"assets/AssetManifest.json": "a5b4651153c443a3370b6c5fabf2f696",
+"assets/AssetManifest.json": "28c247c7bd61e42c92cad574b32ca09f",
 "assets/NOTICES": "fa753b54df2e81b3dfb772509a025d33",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "version.json": "29ce36fe4c17b5ac2c24b5683a126e2c",
 "icons/Icon-512.png": "7bf5e90a314a758794bb52e4731a8650",
 "icons/Icon-192.png": "adda019cede461f645cd78489712a02a",
 "favicon.ico": "f13a0e0a83c1f6445126aabe600fabeb",
-"index.html": "765af207bf66bdcef3379f4e992fab20",
-"/": "765af207bf66bdcef3379f4e992fab20",
-"main.dart.js": "da32a76439bfcbf00bdd432223c0c3d4"
+"index.html": "60ba2528a69dcd83ee3d90d6920682df",
+"/": "60ba2528a69dcd83ee3d90d6920682df",
+"main.dart.js": "28e42df49ea601d86bc425f1472b9e8a"
 };
 
 // The application shell files that are downloaded before a service worker can
